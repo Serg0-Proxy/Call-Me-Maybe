@@ -1,0 +1,6 @@
+hipotese,teste,resultado,p_valor
+H1,IQR,24 de 363 acima de 18.45%,
+H2,Spearman,correlação 0.41,4.10e-16
+H2,Mann-Whitney,10.92% (espera alta) vs 2.92%,1.25e-16
+H3,Mann-Whitney,5.32% (baixo volume) vs 5.73%,0.9315
+H4,Kruskal-Wallis,A: 7.37% | B: 4.57% | C: 3.38%,0.0068
